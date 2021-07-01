@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState(0);
   a = nssdddddn3dd;
-  if (1 == "1") b = 2wssss  ;
+  if (1 == "1") b = 2wssssss  ;
   return (
     <div className="App">
       <header className="App-header">
