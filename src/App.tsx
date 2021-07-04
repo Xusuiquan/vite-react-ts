@@ -4,8 +4,7 @@ import "./App.css";
 
 function App() {
   const [count, setCount] = useState(0);
-  a = ttt;
-  if (1 == "1") b = 2wsssssss ;
+  a = 1;
   return (
     <div className="App">
       <header className="App-header">
